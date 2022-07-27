@@ -6,6 +6,9 @@ public class Sample2 {
 {
 		System.out.println(" Hello welcome to java");
 		
+		System.out.println(" Hello welcome to aaaaaaaa");
+		
+		System.out.println(" Hello welcome to bbbbbbbb");
 		
 		System.out.println(" Hello welcome to the GIT HUB");
 

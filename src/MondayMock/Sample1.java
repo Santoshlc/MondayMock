@@ -6,6 +6,8 @@ public class Sample1 {
 	{
 		System.out.println(" Hello welcome to java");
 
+		
+		System.out.println(" Hello welcome to git hubbbbbbbbbb");
 	}
 
 }

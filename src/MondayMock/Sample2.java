@@ -8,6 +8,12 @@ public class Sample2 {
 		
 		
 		System.out.println(" Hello welcome to the GIT HUB");
+		
+		
+		System.out.println(" Hello welcome to javaaaaaaaaaaaaaaaa");
+		
+		
+		System.out.println(" Hello welcome to the GIT HUBBBBBBBBBBBBBBb");
 
 	}
 
